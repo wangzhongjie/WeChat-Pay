@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "weixinpay",
+    "script": "production.js",
+    "cwd": "/Users/wzjcool/Documents/demo/weixinpay",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
