@@ -1,6 +1,6 @@
 
-> a Third-party payment platform(WeChat Pay) API developing By Nodejs+Thinkjs+Mysql
-> Nodejs,Thinkjs开发微信支付功能，包含拉起支付、监听微信回调、查询订单、关单等功能
+- a Third-party payment platform(WeChat Pay) API developing By Nodejs+Thinkjs+Mysql
+- Nodejs,Thinkjs开发微信支付功能，包含拉起支付、监听微信回调、查询订单、关单等功能
 
 ## API
 - 拉起支付二维码：wxPay/toPay
